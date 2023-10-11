@@ -1,0 +1,14 @@
+.gora {
+    background-color: darkslategray;
+    width: 106vh;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:lightsteelblue;
+}
+
+.guzik {
+    display: flex;
+    justify-content: center;
+}
